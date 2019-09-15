@@ -14,3 +14,4 @@ $(document).ready(function(){
   });
 });
 
+$(".election-selection" ).wrapInner("<a href='listofcandidates.html'></a>");
